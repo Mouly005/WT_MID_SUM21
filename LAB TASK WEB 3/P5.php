@@ -17,7 +17,7 @@ $imageHeight="300px";
 <table>
 <tr>
 <td>
-<img src="C:\Users\Lenovo\Downloads" height="<?php echo $imageHeight; ?>" width="<?php echo $imageWidth; ?>" >
+<img src="aiub logo.jpg" height="<?php echo $imageHeight; ?>" width="<?php echo $imageWidth; ?>" >
 
 </td>
 
